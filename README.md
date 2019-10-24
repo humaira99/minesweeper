@@ -12,6 +12,8 @@ Minesweeper game in Java
 
 ## Screenshots
 
+<img src = "https://github.com/humaira99/minesweeper/blob/master/Screenshot.png?raw=true" width = "652px" height = "375px"><br><br>
+<img src = "https://github.com/humaira99/minesweeper/blob/master/Screenshot2.png?raw=true" width = "652px" height = "375px"><br><br>
 
 --------------------
 Created: April 2018
