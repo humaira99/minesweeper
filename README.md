@@ -1,4 +1,4 @@
-# minesweeper
+# Minesweeper
 Minesweeper game in Java
 
 
@@ -9,6 +9,9 @@ Minesweeper game in Java
 - If you click on a non-mine then the square turns green tells you how many mines are immediately surrounding including diagonally.
 - If you find a square with no mines around it then the game will automatically explore the surrounding (non-mine) squares for you, as if you have clicked on them.
 - If you find all of the non-mine squares then you win.
+
+## Screenshots
+
 
 --------------------
 Created: April 2018
